@@ -22,3 +22,10 @@ edition = "2021"
 # Challenge Help 3: The Criterion documentation has a great tutorial for how to actually write your
 # benchmark.  Don't skip the part about `black_box()`!
 # https://bheisler.github.io/criterion.rs/book/getting_started.html#step-2---add-benchmark
+
+[dev-dependencies]
+criterion = { version = "0.3", features = ["html_reports"] }
+
+[[bench]]
+name = "sploosh_benchmark"
+harness = false
