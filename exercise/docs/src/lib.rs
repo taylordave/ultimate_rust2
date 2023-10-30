@@ -16,7 +16,7 @@
 // - Document the "orangeness" field, explaining that it is a number from 8 to 27
 
 //! A pumpkin is a vernacular term for mature winter squash of species and varieties in the genus Cucurbita
-//! that has culinary and cultural significance but no agreed upon botanical or scientific meaning.[3]
+//! that has culinary and cultural significance but no agreed upon botanical or scientific meaning.\[3\]
 //! The term pumpkin is sometimes used interchangeably with "squash" or "winter squash", and is commonly
 //! used for cultivars of Cucurbita argyrosperma, Cucurbita ficifolia, Cucurbita maxima, Cucurbita moschata,
 //! and Cucurbita pepo.
